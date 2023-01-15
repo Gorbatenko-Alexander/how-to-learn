@@ -1,0 +1,17 @@
+.video__iframe {
+  width: 515px;
+  height: 316px;
+  border: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.video__iframe:first-of-type {
+  top: 0;
+  left: 0;
+}
+
+.video__iframe:last-of-type {
+  top: 0;
+  right: 0;
+}
