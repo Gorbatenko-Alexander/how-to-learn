@@ -1,9 +1,9 @@
-.header__link {
+.resources__link {
   text-decoration: none;
-  color: #2f80ed;
+  color: black;
   transition: 1s;
 }
 
-.header__link:hover {
+.resources__link:hover {
   opacity: 0.3;
 }
